@@ -18,6 +18,7 @@ If you have a scalability problem, your system is fast for a single user but slo
 -----------------------------------------------------------------------------------------------------------------------------------------
 System design is the process of planning and structuring the architecture of a software system based on user requirements. It defines how different components of the system will work together to achieve the desired functionality efficiently.
 
+
 Translates user requirements into a technical blueprint by defining system components, data flow, and interactions between services.
 The goal is to create a well-organized and efficient structure that meets the intended purpose while considering factors like scalability, maintainability, and performance.
 Example: For example, in an online shopping system, system design decides how components like the user interface, product catalog, 
